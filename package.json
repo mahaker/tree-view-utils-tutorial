@@ -1,0 +1,19 @@
+{
+  "name": "tree-view-utils-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc",
+    "poststart": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alchemisten/tree-view-utils": "0.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
